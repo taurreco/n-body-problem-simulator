@@ -1,5 +1,5 @@
 # N-Body Problem Simulator
-A basic representation of how Newton's law of universal gravitation affects the relationship between many bodies of mass.
+A basic representation of how Newton's Law of Universal Gravitation affects the relationship between many bodies of mass.
 
 Controls:
 - Left mouse click to add a new body
