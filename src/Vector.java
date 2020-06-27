@@ -203,7 +203,7 @@ public class Vector {
 	
 	/** 
 	 * Return the magnitude given two components using 
-	 * pythagorus's theorem.
+	 * pythagoras's theorem.
 	 *
 	 * @param the x component of the vector
 	 * @param the y component of the vector
